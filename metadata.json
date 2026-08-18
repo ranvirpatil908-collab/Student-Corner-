@@ -1,0 +1,6 @@
+{
+  "name": "Student Corner",
+  "description": "A collaborative student hub for sharing study materials, engaging in discussion forums, tracking campus events, and AI-powered study assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
